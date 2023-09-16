@@ -12,3 +12,4 @@ book:
     - part: "Foundations"
       chapters:
         - test.qmd
+        - added.qmd

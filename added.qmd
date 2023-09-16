@@ -1,0 +1,10 @@
+## Added chapter for undergrad profile
+
+
+
+::: {.content-visible unless-profile="undergrad"}
+The default profile is being used.
+:::
+::: {.content-visible when-profile="undergrad"}
+The undergrad profile was detected
+:::
