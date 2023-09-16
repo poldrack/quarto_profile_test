@@ -2,7 +2,7 @@ book:
   title: "Profile testing - Undergrad profile detected from _book-undergrad.yml"
   author:
     - Original author
-    - adapted by Russ Poldrack
+    - Additional author detected in undergrad profile
   date: last-modified
   back-to-top-navigation: true
   sidebar:
