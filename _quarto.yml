@@ -1,0 +1,14 @@
+project:
+  type: book
+  preview:
+    port: 4200
+
+metadata-files:
+  - _book.yml
+  
+format:
+  html:
+    theme:
+      light: [flatly, resources/scss/global.scss]
+      dark: [darkly, resources/scss/global.scss]
+    published-title: "Updated"

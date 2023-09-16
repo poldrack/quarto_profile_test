@@ -1,0 +1,7 @@
+project:
+  title: "Experimentology - Undergrad Profile Detected from _quarto-undergrad.yml"
+  output-dir: _site-undergrad
+
+
+metadata-files:
+  - _book-undergrad.yml

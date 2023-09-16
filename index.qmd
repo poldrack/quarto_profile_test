@@ -1,0 +1,11 @@
+# Preface {-}
+
+This preface is just a test.
+
+::: {.content-visible unless-profile="undergrad"}
+This is the default profile.
+:::
+::: {.content-visible when-profile="undergrad"}
+This is the undergrad profile.
+:::
+

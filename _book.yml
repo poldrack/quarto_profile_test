@@ -1,0 +1,14 @@
+book:
+  title: "Profile testing - default profile"
+  author:
+    - Original author
+    - adapted by Russ Poldrack
+  date: last-modified
+  back-to-top-navigation: true
+  sidebar:
+    style: "docked"
+  chapters:
+    - index.qmd
+    - part: "Foundations"
+      chapters:
+        - test.qmd

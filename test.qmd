@@ -1,0 +1,11 @@
+## This is just a test
+
+Some text here to test out profile handling.
+
+
+::: {.content-visible unless-profile="undergrad"}
+This version of the book is for graduate students.
+:::
+::: {.content-visible when-profile="undergrad"}
+This version of the book is for undergraduate students.
+:::
