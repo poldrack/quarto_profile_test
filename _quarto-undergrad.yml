@@ -1,5 +1,5 @@
 project:
-  title: "Experimentology - Undergrad Profile Detected from _quarto-undergrad.yml"
+  title: "Undergrad Profile Detected from _quarto-undergrad.yml"
   output-dir: _site-undergrad
 
 
